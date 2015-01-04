@@ -1,11 +1,6 @@
 
 /* Main JavaScript file for The Snake */
 
-/* I didn't use jQuery for some reasons.
-*  First of all, snake is a live game so jQuery will make it slower.
-*  jQuery makes the app slower, but easier to program,
-*  so sometimes better to use JavaScript than jQuery.  */
-
 window.onload = function() {
 
 	// The canvas board variables.
